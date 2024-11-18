@@ -17,10 +17,6 @@
       margin-bottom: 48px;
     }
 
-    &:last-of-type {
-      margin-bottom: 0;
-    }
-
     &:hover {
       transform: scale(1.01);
     }
@@ -28,6 +24,12 @@
     &:focus {
       border-bottom: 1px solid $blue;
     }
+  }
+
+  &__textarea {
+    resize: none;
+    height: auto;
+    padding-bottom: 8px; 
   }
 
   &__button {

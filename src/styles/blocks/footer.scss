@@ -81,6 +81,12 @@
     font-weight: 600;
     text-decoration: none;
     line-height: 150%;
+    transition: all 0.3s;
+    cursor: pointer;
+
+    &:hover {
+      color: #ccc6c6;
+    }
   }
 
   &__nav {
@@ -164,7 +170,7 @@
 
     &::after {
       position: absolute;
-      content: '';
+      content: "";
       left: 0;
       bottom: -10px;
       background: #0c3dff;
