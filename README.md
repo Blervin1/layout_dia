@@ -21,7 +21,7 @@
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/your-repo.git](https://github.com/Blervin1/layout_dia.git
 
 2. Перейдіть до директорії проєкту:
    ```bash
@@ -33,7 +33,7 @@
    ```
 4. Запустіть Gulp для автоматизації:
    ```bash
-   gulp
+   npm run start
    ```
 5. Відкрийте браузер і перейдіть за адресою [http://localhost:3000](http://localhost:3000).
 
