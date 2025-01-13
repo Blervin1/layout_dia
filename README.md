@@ -13,8 +13,8 @@ Dia is a responsive landing page designed based on a [Figma](https://www.figma.c
 ---
 
 ## 🌐 Links
-- **Preview**: [Демо-версія](https://Blervin1.github.io/layout_dia/)  
-- **Figma Design:**: [Переглянути дизайн](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)  
+- **Preview**: [DEMO](https://Blervin1.github.io/layout_dia/)  
+- **Figma Design:**: [Design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)  
 
 ---
 
